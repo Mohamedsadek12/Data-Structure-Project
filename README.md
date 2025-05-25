@@ -21,7 +21,7 @@ The system will also offer a comparison tool allowing the evaluation of properti
 - User Management: Approve listings and moderate users.
 
 
-#💾 Data Structures Used
+# 💾 Data Structures Used
 - map for storing user accounts efficiently.
 - list for managing insertion and deletion of property listings.
 - queue for searching
