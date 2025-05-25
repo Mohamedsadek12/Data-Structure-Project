@@ -33,7 +33,7 @@ The system reads from and writes to files to preserve user and property data acr
 - Basic error handling is implemented for file I/O, such as missing files or invalid formats.
 
 
-## How to Run
+# How to Run
 1. Open `Login_Page.sln` in Visual Studio
 2. Build the solution
 3. Run the application
