@@ -37,3 +37,7 @@ The system reads from and writes to files to preserve user and property data acr
 1. Open `Login_Page.sln` in Visual Studio
 2. Build the solution
 3. Run the application
+
+# important note
+first admin make it from file 
+go to ...\Login_Page\Users.txt and change second number 0 --> 1 to mark user as admin
